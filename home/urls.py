@@ -18,10 +18,23 @@ from django.contrib import admin
 from django.urls import path 
 from home import views 
 
+admin.site.site_header = "Inventory Management Admin"
+admin.site.site_title = "Inventory Management Admin Portal"
+admin.site.index_title = "Welcome to Inventory Management Portal"
+
 
 urlpatterns = [
-    path("",views.index, name="home"),
+    path("",views.index, name="Dashboard"),
     #path('admin/', admin.site.urls)
+    path("Inventory",views.Inventory, name="Inventory"),
+    path("Sales",views.Sales, name="Sales"),
+    path("DemandForecasting",views.DemandForecasting, name="DemandForecasting"),
+    # path("Reports",views.Reports, name="Reports"),
+    path("PurchasePlan",views.PurchasePlan, name="PurchasePlan"),
+    path("SmartAlerts",views.SmartAlerts, name="SmartAlerts"),
+    path("DownloadReports",views.DownloadReports, name="DownloadReports"),
+    path("Admin",views.Admin, name="Admin"),
+
     
 
 ]
