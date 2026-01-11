@@ -68,3 +68,9 @@ ing ](![alt text](https://github.com/priteshbaraiya/Smart-Inventory-Management-F
 ### 5. Inventory Report
 <img width="1918" height="908" alt="downloadreports" src="https://github.com/user-attachments/assets/95f0ac8a-a85f-4bd6-ba76-e57330bd1cb2" />
 
+![image](<img width="1918" height="908" alt="Image" src="https://github.com/user-attachments/assets/2aac7f67-eeb7-4992-8dc5-584a7ed5c587" />)
+<img width="1918" height="912" alt="Image" src="https://github.com/user-attachments/assets/20cd5559-c41c-4108-92a7-8a150b2fcae2" />
+<img width="947" height="908" alt="Image" src="https://github.com/user-attachments/assets/d96053f0-a48a-41d6-aa17-d4bdc60d2155" />
+<img width="1918" height="907" alt="Image" src="https://github.com/user-attachments/assets/cfe00e8a-aea9-43b7-8f93-cf4d507bf28b" />
+<img width="1900" height="907" alt="Image" src="https://github.com/user-attachments/assets/8b684ee1-99dd-4b7f-b107-4b664d93bbe8" />
+
