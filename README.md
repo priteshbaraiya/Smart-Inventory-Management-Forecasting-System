@@ -18,6 +18,8 @@
 
 > A comprehensive web-based solution for managing stock, tracking sales, and forecasting demand using Python & Django.
 
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Smart Inventory](https://img.shields.io/badge/Smart-Inventory-blue)
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Django](https://img.shields.io/badge/Django-5.0%2B-green)
@@ -53,6 +55,21 @@ Follow these steps to run the project locally on your machine.
 
 ---
 
+
+
+## 📄 License
+
+This project is licensed - see [LICENSE](LICENSE) for details.
+
+## 🌐 Connect with Me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pritesh-rajbaraiya-dev/)
+---
+
+<div align="center">
+Made with ❤️ by Priteshbaraiya
+</div>
+
 ### Step 1: Get the Project
 **Option A: Using Git (Recommended)**
 ```bash
@@ -66,3 +83,5 @@ python manage.py runserver
 Open your browser and go to: http://127.0.0.1:8000/
 
 To access Admin Panel: http://127.0.0.1:8000/admin/
+
+
