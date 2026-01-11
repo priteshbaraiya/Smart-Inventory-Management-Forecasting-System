@@ -54,17 +54,17 @@ To access Admin Panel: http://127.0.0.1:8000/admin/
 ## 📸 Screenshots
 
 ### 1. Admin Dashboard
-![Dashboard View](https://raw.githubusercontent.com/priteshbaraiya/Smart-Inventory-Management-Forecasting-System/main/screenshots/dashboard.png?raw=true)
+<img width="1900" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/73330aa3-2533-431e-9b4f-a9532dad122f" />
 
 ### 2. Login Page
-![Login Page](https://github.com/priteshbaraiya/Smart-Inventory-Management-Forecasting-System/blob/main/screenshots/login.png?raw=true)
+<img width="947" height="908" alt="login" src="https://github.com/user-attachments/assets/cbda44fe-9c83-492c-b4d8-ad8e3a839ba3" />
 
 ### 3. Smart Alerts
-![Alerts System](https://github.com/priteshbaraiya/Smart-Inventory-Management-Forecasting-System/blob/main/screenshots/smartalerts.png?raw=true)
+<img width="1918" height="907" alt="smartalerts" src="https://github.com/user-attachments/assets/fd109f9a-ad0f-4de4-9383-33316ece57ad" />
 
 ### 4. Forecasting
-![Forecasting ](![alt text](https://github.com/priteshbaraiya/Smart-Inventory-Management-Forecasting-System/blob/main/screenshots/forecasting.png?raw=true))
+ing ](![alt text](https://github.com/priteshbaraiya/Smart-Inventory-Management-Forecasting-System/blob/main/screenshots/forecasting.png?raw=true))
 
 ### 5. Inventory Report
-![Inventory Report](![screenshots/downloadreports.png](https://github.com/priteshbaraiya/Smart-Inventory-Management-Forecasting-System/blob/main/screenshots/downloadreports.png?raw=true))
+<img width="1918" height="908" alt="downloadreports" src="https://github.com/user-attachments/assets/95f0ac8a-a85f-4bd6-ba76-e57330bd1cb2" />
 
